@@ -1,0 +1,16 @@
+.card-header {
+  background-color: blanchedalmond;
+}
+
+.card-body {
+  background-color: rgb(33, 175, 175);
+  padding: 10px;
+}
+
+.container-fluid {
+  background-color: rgb(206, 206, 54);
+}
+
+.container-fluid img {
+  padding-left: 50px;
+}
